@@ -1,0 +1,7 @@
+E:\curso de progamasion\ejercicios examen c#\calcular el procentaje de cada inversion\calcular el procentaje de cada inversion\bin\Debug\calcular el procentaje de cada inversion.exe.config
+E:\curso de progamasion\ejercicios examen c#\calcular el procentaje de cada inversion\calcular el procentaje de cada inversion\bin\Debug\calcular el procentaje de cada inversion.exe
+E:\curso de progamasion\ejercicios examen c#\calcular el procentaje de cada inversion\calcular el procentaje de cada inversion\bin\Debug\calcular el procentaje de cada inversion.pdb
+E:\curso de progamasion\ejercicios examen c#\calcular el procentaje de cada inversion\calcular el procentaje de cada inversion\obj\Debug\calcular el procentaje de cada inversion.csprojResolveAssemblyReference.cache
+E:\curso de progamasion\ejercicios examen c#\calcular el procentaje de cada inversion\calcular el procentaje de cada inversion\obj\Debug\calcular el procentaje de cada inversion.csproj.CoreCompileInputs.cache
+E:\curso de progamasion\ejercicios examen c#\calcular el procentaje de cada inversion\calcular el procentaje de cada inversion\obj\Debug\calcular el procentaje de cada inversion.exe
+E:\curso de progamasion\ejercicios examen c#\calcular el procentaje de cada inversion\calcular el procentaje de cada inversion\obj\Debug\calcular el procentaje de cada inversion.pdb

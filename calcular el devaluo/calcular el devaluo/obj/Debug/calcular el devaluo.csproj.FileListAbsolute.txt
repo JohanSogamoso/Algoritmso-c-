@@ -1,0 +1,6 @@
+E:\curso de progamasion\ejercicios examen c#\calcular el devaluo\calcular el devaluo\obj\Debug\calcular el devaluo.csproj.CoreCompileInputs.cache
+E:\curso de progamasion\ejercicios examen c#\calcular el devaluo\calcular el devaluo\bin\Debug\calcular el devaluo.exe.config
+E:\curso de progamasion\ejercicios examen c#\calcular el devaluo\calcular el devaluo\bin\Debug\calcular el devaluo.exe
+E:\curso de progamasion\ejercicios examen c#\calcular el devaluo\calcular el devaluo\bin\Debug\calcular el devaluo.pdb
+E:\curso de progamasion\ejercicios examen c#\calcular el devaluo\calcular el devaluo\obj\Debug\calcular el devaluo.exe
+E:\curso de progamasion\ejercicios examen c#\calcular el devaluo\calcular el devaluo\obj\Debug\calcular el devaluo.pdb

@@ -1,0 +1,7 @@
+K:\curso de progamasion\ejercicios examen c#\calcular votantes de cada zona\calcular votantes de cada zona\bin\Debug\calcular votantes de cada zona.exe.config
+K:\curso de progamasion\ejercicios examen c#\calcular votantes de cada zona\calcular votantes de cada zona\bin\Debug\calcular votantes de cada zona.exe
+K:\curso de progamasion\ejercicios examen c#\calcular votantes de cada zona\calcular votantes de cada zona\bin\Debug\calcular votantes de cada zona.pdb
+K:\curso de progamasion\ejercicios examen c#\calcular votantes de cada zona\calcular votantes de cada zona\obj\Debug\calcular votantes de cada zona.csprojResolveAssemblyReference.cache
+K:\curso de progamasion\ejercicios examen c#\calcular votantes de cada zona\calcular votantes de cada zona\obj\Debug\calcular votantes de cada zona.csproj.CoreCompileInputs.cache
+K:\curso de progamasion\ejercicios examen c#\calcular votantes de cada zona\calcular votantes de cada zona\obj\Debug\calcular votantes de cada zona.exe
+K:\curso de progamasion\ejercicios examen c#\calcular votantes de cada zona\calcular votantes de cada zona\obj\Debug\calcular votantes de cada zona.pdb

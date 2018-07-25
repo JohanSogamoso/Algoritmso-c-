@@ -1,0 +1,6 @@
+K:\curso de progamasion\ejercicios examen c#\tabla de multiplicar\tabla de multiplicar\bin\Debug\tabla de multiplicar.exe.config
+K:\curso de progamasion\ejercicios examen c#\tabla de multiplicar\tabla de multiplicar\bin\Debug\tabla de multiplicar.exe
+K:\curso de progamasion\ejercicios examen c#\tabla de multiplicar\tabla de multiplicar\bin\Debug\tabla de multiplicar.pdb
+K:\curso de progamasion\ejercicios examen c#\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla de multiplicar.csproj.CoreCompileInputs.cache
+K:\curso de progamasion\ejercicios examen c#\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla de multiplicar.exe
+K:\curso de progamasion\ejercicios examen c#\tabla de multiplicar\tabla de multiplicar\obj\Debug\tabla de multiplicar.pdb

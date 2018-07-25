@@ -1,0 +1,6 @@
+E:\curso de progamasion\ejercicios examen c#\calcular presupuesto de un hospital\calcular presupuesto de un hospital\bin\Debug\calcular presupuesto de un hospital.exe.config
+E:\curso de progamasion\ejercicios examen c#\calcular presupuesto de un hospital\calcular presupuesto de un hospital\bin\Debug\calcular presupuesto de un hospital.exe
+E:\curso de progamasion\ejercicios examen c#\calcular presupuesto de un hospital\calcular presupuesto de un hospital\bin\Debug\calcular presupuesto de un hospital.pdb
+E:\curso de progamasion\ejercicios examen c#\calcular presupuesto de un hospital\calcular presupuesto de un hospital\obj\Debug\calcular presupuesto de un hospital.csproj.CoreCompileInputs.cache
+E:\curso de progamasion\ejercicios examen c#\calcular presupuesto de un hospital\calcular presupuesto de un hospital\obj\Debug\calcular presupuesto de un hospital.exe
+E:\curso de progamasion\ejercicios examen c#\calcular presupuesto de un hospital\calcular presupuesto de un hospital\obj\Debug\calcular presupuesto de un hospital.pdb

@@ -1,0 +1,6 @@
+K:\curso de progamasion\ejercicios examen c#\allar el medio de 3 numeros\allar el medio de 3 numeros\bin\Debug\allar el medio de 3 numeros.exe.config
+K:\curso de progamasion\ejercicios examen c#\allar el medio de 3 numeros\allar el medio de 3 numeros\bin\Debug\allar el medio de 3 numeros.exe
+K:\curso de progamasion\ejercicios examen c#\allar el medio de 3 numeros\allar el medio de 3 numeros\bin\Debug\allar el medio de 3 numeros.pdb
+K:\curso de progamasion\ejercicios examen c#\allar el medio de 3 numeros\allar el medio de 3 numeros\obj\Debug\allar el medio de 3 numeros.csproj.CoreCompileInputs.cache
+K:\curso de progamasion\ejercicios examen c#\allar el medio de 3 numeros\allar el medio de 3 numeros\obj\Debug\allar el medio de 3 numeros.exe
+K:\curso de progamasion\ejercicios examen c#\allar el medio de 3 numeros\allar el medio de 3 numeros\obj\Debug\allar el medio de 3 numeros.pdb

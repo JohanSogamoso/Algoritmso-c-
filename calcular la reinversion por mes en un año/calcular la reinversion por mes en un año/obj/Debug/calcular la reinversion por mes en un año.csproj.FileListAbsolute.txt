@@ -1,0 +1,7 @@
+K:\curso de progamasion\ejercicios examen c#\calcular la reinversion por mes en un año\calcular la reinversion por mes en un año\obj\Debug\calcular la reinversion por mes en un año.csprojResolveAssemblyReference.cache
+K:\curso de progamasion\ejercicios examen c#\calcular la reinversion por mes en un año\calcular la reinversion por mes en un año\obj\Debug\calcular la reinversion por mes en un año.csproj.CoreCompileInputs.cache
+K:\curso de progamasion\ejercicios examen c#\calcular la reinversion por mes en un año\calcular la reinversion por mes en un año\bin\Debug\calcular la reinversion por mes en un año.exe.config
+K:\curso de progamasion\ejercicios examen c#\calcular la reinversion por mes en un año\calcular la reinversion por mes en un año\bin\Debug\calcular la reinversion por mes en un año.exe
+K:\curso de progamasion\ejercicios examen c#\calcular la reinversion por mes en un año\calcular la reinversion por mes en un año\bin\Debug\calcular la reinversion por mes en un año.pdb
+K:\curso de progamasion\ejercicios examen c#\calcular la reinversion por mes en un año\calcular la reinversion por mes en un año\obj\Debug\calcular la reinversion por mes en un año.exe
+K:\curso de progamasion\ejercicios examen c#\calcular la reinversion por mes en un año\calcular la reinversion por mes en un año\obj\Debug\calcular la reinversion por mes en un año.pdb

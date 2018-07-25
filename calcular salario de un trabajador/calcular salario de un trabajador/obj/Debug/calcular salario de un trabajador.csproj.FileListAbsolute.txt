@@ -1,0 +1,6 @@
+E:\curso de progamasion\ejercicios examen c#\calcular salario de un trabajador\calcular salario de un trabajador\bin\Debug\calcular salario de un trabajador.exe.config
+E:\curso de progamasion\ejercicios examen c#\calcular salario de un trabajador\calcular salario de un trabajador\bin\Debug\calcular salario de un trabajador.exe
+E:\curso de progamasion\ejercicios examen c#\calcular salario de un trabajador\calcular salario de un trabajador\bin\Debug\calcular salario de un trabajador.pdb
+E:\curso de progamasion\ejercicios examen c#\calcular salario de un trabajador\calcular salario de un trabajador\obj\Debug\calcular salario de un trabajador.csproj.CoreCompileInputs.cache
+E:\curso de progamasion\ejercicios examen c#\calcular salario de un trabajador\calcular salario de un trabajador\obj\Debug\calcular salario de un trabajador.exe
+E:\curso de progamasion\ejercicios examen c#\calcular salario de un trabajador\calcular salario de un trabajador\obj\Debug\calcular salario de un trabajador.pdb

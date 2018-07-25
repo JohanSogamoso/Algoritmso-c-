@@ -1,0 +1,7 @@
+E:\curso de progamasion\ejercicios examen c#\calcular las calorias consumidas\calcular las calorias consumidas\bin\Debug\calcular las calorias consumidas.exe.config
+E:\curso de progamasion\ejercicios examen c#\calcular las calorias consumidas\calcular las calorias consumidas\bin\Debug\calcular las calorias consumidas.exe
+E:\curso de progamasion\ejercicios examen c#\calcular las calorias consumidas\calcular las calorias consumidas\bin\Debug\calcular las calorias consumidas.pdb
+E:\curso de progamasion\ejercicios examen c#\calcular las calorias consumidas\calcular las calorias consumidas\obj\Debug\calcular las calorias consumidas.csprojResolveAssemblyReference.cache
+E:\curso de progamasion\ejercicios examen c#\calcular las calorias consumidas\calcular las calorias consumidas\obj\Debug\calcular las calorias consumidas.csproj.CoreCompileInputs.cache
+E:\curso de progamasion\ejercicios examen c#\calcular las calorias consumidas\calcular las calorias consumidas\obj\Debug\calcular las calorias consumidas.exe
+E:\curso de progamasion\ejercicios examen c#\calcular las calorias consumidas\calcular las calorias consumidas\obj\Debug\calcular las calorias consumidas.pdb

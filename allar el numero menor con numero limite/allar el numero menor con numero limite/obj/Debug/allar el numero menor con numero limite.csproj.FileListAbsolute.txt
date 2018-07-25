@@ -1,0 +1,7 @@
+K:\curso de progamasion\ejercicios examen c#\allar el numero menor con numero limite\allar el numero menor con numero limite\bin\Debug\allar el numero menor con numero limite.exe.config
+K:\curso de progamasion\ejercicios examen c#\allar el numero menor con numero limite\allar el numero menor con numero limite\bin\Debug\allar el numero menor con numero limite.exe
+K:\curso de progamasion\ejercicios examen c#\allar el numero menor con numero limite\allar el numero menor con numero limite\bin\Debug\allar el numero menor con numero limite.pdb
+K:\curso de progamasion\ejercicios examen c#\allar el numero menor con numero limite\allar el numero menor con numero limite\obj\Debug\allar el numero menor con numero limite.csprojResolveAssemblyReference.cache
+K:\curso de progamasion\ejercicios examen c#\allar el numero menor con numero limite\allar el numero menor con numero limite\obj\Debug\allar el numero menor con numero limite.csproj.CoreCompileInputs.cache
+K:\curso de progamasion\ejercicios examen c#\allar el numero menor con numero limite\allar el numero menor con numero limite\obj\Debug\allar el numero menor con numero limite.exe
+K:\curso de progamasion\ejercicios examen c#\allar el numero menor con numero limite\allar el numero menor con numero limite\obj\Debug\allar el numero menor con numero limite.pdb

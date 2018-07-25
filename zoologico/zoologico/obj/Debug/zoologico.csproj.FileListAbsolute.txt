@@ -1,0 +1,7 @@
+K:\curso de progamasion\ejercicios examen c#\zoologico\zoologico\bin\Debug\zoologico.exe.config
+K:\curso de progamasion\ejercicios examen c#\zoologico\zoologico\bin\Debug\zoologico.exe
+K:\curso de progamasion\ejercicios examen c#\zoologico\zoologico\bin\Debug\zoologico.pdb
+K:\curso de progamasion\ejercicios examen c#\zoologico\zoologico\obj\Debug\zoologico.csprojResolveAssemblyReference.cache
+K:\curso de progamasion\ejercicios examen c#\zoologico\zoologico\obj\Debug\zoologico.csproj.CoreCompileInputs.cache
+K:\curso de progamasion\ejercicios examen c#\zoologico\zoologico\obj\Debug\zoologico.exe
+K:\curso de progamasion\ejercicios examen c#\zoologico\zoologico\obj\Debug\zoologico.pdb

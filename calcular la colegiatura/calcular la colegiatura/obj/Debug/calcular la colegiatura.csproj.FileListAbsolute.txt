@@ -1,0 +1,7 @@
+K:\curso de progamasion\ejercicios examen c#\calcular la colegiatura\calcular la colegiatura\bin\Debug\calcular la colegiatura.exe.config
+K:\curso de progamasion\ejercicios examen c#\calcular la colegiatura\calcular la colegiatura\bin\Debug\calcular la colegiatura.exe
+K:\curso de progamasion\ejercicios examen c#\calcular la colegiatura\calcular la colegiatura\bin\Debug\calcular la colegiatura.pdb
+K:\curso de progamasion\ejercicios examen c#\calcular la colegiatura\calcular la colegiatura\obj\Debug\calcular la colegiatura.csprojResolveAssemblyReference.cache
+K:\curso de progamasion\ejercicios examen c#\calcular la colegiatura\calcular la colegiatura\obj\Debug\calcular la colegiatura.csproj.CoreCompileInputs.cache
+K:\curso de progamasion\ejercicios examen c#\calcular la colegiatura\calcular la colegiatura\obj\Debug\calcular la colegiatura.exe
+K:\curso de progamasion\ejercicios examen c#\calcular la colegiatura\calcular la colegiatura\obj\Debug\calcular la colegiatura.pdb
